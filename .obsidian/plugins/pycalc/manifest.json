@@ -1,0 +1,10 @@
+{
+	"id": "pycalc",
+	"name": "pycalc",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "Executing Python code directly within the editor by pressing the Enter key.",
+	"author": "pycalc",
+	"authorUrl": "https://github.com/pycalc-plugin",
+	"isDesktopOnly": false
+}

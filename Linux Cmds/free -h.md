@@ -1,0 +1,1 @@
+[[free -h]] check system memory usage

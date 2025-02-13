@@ -1,0 +1,309 @@
+{
+  "main": {
+    "id": "b04342eea3673c9e",
+    "type": "split",
+    "children": [
+      {
+        "id": "9599916d2de3218c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "490c18047780cd47",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OvertheWire Natas.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "OvertheWire Natas"
+            }
+          },
+          {
+            "id": "a656c5595bfdfc7c",
+            "type": "leaf",
+            "state": {
+              "type": "cm-changelog-view",
+              "state": {},
+              "icon": "rocket",
+              "title": "Changelog of Canvas Mindmap"
+            }
+          },
+          {
+            "id": "719da3a7e9ea1344",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
+          },
+          {
+            "id": "9732f7f90ac6c18f",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Untitled 1.canvas",
+                "viewState": {
+                  "x": -500,
+                  "y": -420,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Untitled 1"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "481f06edaae522b9",
+    "type": "split",
+    "children": [
+      {
+        "id": "24958e52c5771789",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "adbb0facc488956b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "969b835b70851dda",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "902eac4ee3cdbf8e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "5b9d32451efb42ed",
+    "type": "split",
+    "children": [
+      {
+        "id": "55880169faf8fc5a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "554283bbdc6f8f82",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Open SSL.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Open SSL"
+            }
+          },
+          {
+            "id": "e934d70cf4e041ac",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Open SSL.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Open SSL"
+            }
+          },
+          {
+            "id": "bb751228bb8213ff",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "5cb75d2384ff8852",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Untitled.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Untitled"
+            }
+          },
+          {
+            "id": "cd9fa0f8578585e4",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "44f781f48e79fdcb",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          },
+          {
+            "id": "da852b23063c858d",
+            "type": "leaf",
+            "state": {
+              "type": "moredraw-iframe-view",
+              "state": {},
+              "icon": "moredraw-icon",
+              "title": "MoreDraw"
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "horizontal",
+    "width": 884.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "activity-heatmap:Open activity heatmap": false,
+      "github-sync:Sync with Remote": false,
+      "khoj:Khoj": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-file-cleaner:Clean files": false,
+      "obsidian-importer:Open Importer": false,
+      "pomodoro-timer:Toggle timer panel": false,
+      "password-audit:Password Audit": false,
+      "simple-quiz:Run quiz": false,
+      "abbrlink:Generate Abbrlinks": false,
+      "moredraw:MoreDraw": false,
+      "foldercanvas:Folder Canvas": false,
+      "advanced-canvas-filter:Advanced Canvas Filter": false,
+      "cardify:Cardify": false,
+      "omnisearch:Omnisearch": false
+    }
+  },
+  "active": "719da3a7e9ea1344",
+  "lastOpenFiles": [
+    "Untitled 1.canvas",
+    "Untitled.md",
+    "Untitled 4.md",
+    "OvertheWire Natas.md",
+    "Untitled.canvas",
+    "Pasted image 20250213084632.png",
+    "NOTES FORMAT.md",
+    "Untitled 3.md",
+    "OvertheWire/Natas/Natas 1-7.md",
+    "Permissions.md",
+    "Pasted image 20250213084645.png",
+    "Pasted image 20250213084641.png",
+    "OvertheWire/Bandit/Bandit 13.md",
+    "OvertheWire/Natas",
+    "OvertheWire/Bandit/Bandit 16.md",
+    "OvertheWire/Bandit/bandit cmds lines.md",
+    "OvertheWire/Bandit/Bandit 14.md",
+    "Untitled 2.md",
+    "TRYHACKME/TRYHACKME.md",
+    ".md",
+    "LINUX SHORTCUTS.md",
+    "VPN VS MALWARE.md",
+    "Untitled 1.md",
+    "DeepSeek.md",
+    "Files/Files.md",
+    "Files/Timmytwoshoes.ovpn",
+    "Images/Pasted image 20250211133810.png",
+    "Links.md",
+    "Images/Pasted image 20250212142352.png",
+    "TRYHACKME/PHP .md",
+    "TRYHACKME/Challenge Basic ##PenTesting.md",
+    "TRYHACKME/NMAP Post port scan.md",
+    "TRYHACKME/NMAP.md",
+    "Feb 11 2025.md",
+    "2025-02-11.md",
+    "Images/Untitled.canvas",
+    "Images/Pasted image 20250211093441.png",
+    "Tags",
+    "TRYHACKME/Burp Suite",
+    "TRYHACKME/NMAP Advanced Scans/Untitled",
+    "Images/Pasted image 20250204082118.png",
+    "Images/Pasted image 20250204081534.png",
+    "Images/Pasted image 20250204065724.png",
+    "Files",
+    "Images/Pasted image 20250204065034.png",
+    "Untitled 2",
+    "Untitled 1",
+    "Linux Cmds"
+  ]
+}
