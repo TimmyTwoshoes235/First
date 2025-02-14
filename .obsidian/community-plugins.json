@@ -32,7 +32,6 @@
   "omnisearch",
   "text-extractor",
   "oz-clear-unused-images",
-  "obsidian-imgur-plugin",
   "insert-unsplash-image",
   "ai-commander",
   "background-image",
@@ -43,5 +42,10 @@
   "khoj",
   "heatmap-calendar",
   "chatgpt-md",
-  "flashcards-llm"
+  "flashcards-llm",
+  "image-converter",
+  "obsidian-text-format",
+  "cmenu-plugin",
+  "google-photos",
+  "obsidian-minimal-settings"
 ]

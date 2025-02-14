@@ -1,30 +1,5 @@
 {
   "checkpoints": {
-    "Untitled 4.md": {
-      "mtime": 1739466580093,
-      "wordCount": 1,
-      "fileSize": 0
-    },
-    "Untitled.md": {
-      "mtime": 1739466633626,
-      "wordCount": 1,
-      "fileSize": 2
-    },
-    "Untitled 3.md": {
-      "mtime": 1739465515858,
-      "wordCount": 1,
-      "fileSize": 0
-    },
-    "Untitled 2.md": {
-      "mtime": 1739465036938,
-      "wordCount": 1,
-      "fileSize": 0
-    },
-    "Untitled 1.md": {
-      "mtime": 1739464928033,
-      "wordCount": 1,
-      "fileSize": 0
-    },
     "OvertheWire Natas.md": {
       "mtime": 1739464897962,
       "wordCount": 481,
@@ -45,15 +20,10 @@
       "wordCount": 37,
       "fileSize": 220
     },
-    "Vault.md": {
-      "mtime": 1739302060849,
-      "wordCount": 1,
-      "fileSize": 0
-    },
     "LINUX SHORTCUTS.md": {
-      "mtime": 1738685950863,
-      "wordCount": 144,
-      "fileSize": 1093
+      "mtime": 1739570333698,
+      "wordCount": 151,
+      "fileSize": 1201
     },
     "DeepSeek.md": {
       "mtime": 1738167507418,
@@ -79,11 +49,6 @@
       "mtime": 1738014420981,
       "wordCount": 4,
       "fileSize": 37
-    },
-    "NOTES FORMAT.md": {
-      "mtime": 1739301540078,
-      "wordCount": 105,
-      "fileSize": 696
     },
     "Links.md": {
       "mtime": 1737666559559,
@@ -264,6 +229,91 @@
       "mtime": 1738000271908,
       "wordCount": 10,
       "fileSize": 178
+    },
+    "OvertheWire/Natas/Natas8.md": {
+      "mtime": 1739565996375,
+      "wordCount": 131,
+      "fileSize": 1050
+    },
+    "OvertheWire/Natas/Natas9.md": {
+      "mtime": 1739566046585,
+      "wordCount": 54,
+      "fileSize": 629
+    },
+    "Linux Cmds/&.md": {
+      "mtime": 1739479161815,
+      "wordCount": 34,
+      "fileSize": 213
+    },
+    "VOCAB/BASH.md": {
+      "mtime": 1739480756570,
+      "wordCount": 10,
+      "fileSize": 130
+    },
+    "Cybersec 101 project.md": {
+      "mtime": 1739490468958,
+      "wordCount": 2,
+      "fileSize": 16
+    },
+    "VOCAB/Vocab.md": {
+      "mtime": 1739491149672,
+      "wordCount": 25,
+      "fileSize": 200
+    },
+    "Linux Cmds/&&.md": {
+      "mtime": 1739549277459,
+      "wordCount": 13,
+      "fileSize": 79
+    },
+    "VOCAB/VPN VS MALWARE.md": {
+      "mtime": 1738129908450,
+      "wordCount": 37,
+      "fileSize": 292
+    },
+    "RandomProjects/DeepSeek.md": {
+      "mtime": 1738167507418,
+      "wordCount": 415,
+      "fileSize": 3343
+    },
+    "Linux Cmds/grep.md": {
+      "mtime": 1738185102509,
+      "wordCount": 38,
+      "fileSize": 275
+    },
+    "NATAS10.md": {
+      "mtime": 1739550560127,
+      "wordCount": 3,
+      "fileSize": 50
+    },
+    "OvertheWire/Natas/NATAS10.md": {
+      "mtime": 1739560344794,
+      "wordCount": 183,
+      "fileSize": 1429
+    },
+    "Feb 14, 2025 Sec+ Quiz.md": {
+      "mtime": 1739558871407,
+      "wordCount": 1,
+      "fileSize": 83
+    },
+    "fg.md": {
+      "mtime": 1739568755950,
+      "wordCount": 492,
+      "fileSize": 3513
+    },
+    "Summary Bandit19-24 Jan 28.md": {
+      "mtime": 1739569120065,
+      "wordCount": 477,
+      "fileSize": 3430
+    },
+    "OvertheWire/Natas/Summary Bandit19-24.md": {
+      "mtime": 1739569321816,
+      "wordCount": 477,
+      "fileSize": 3443
+    },
+    "OvertheWire/Natas/Summary Bandit 19-24.md": {
+      "mtime": 1739569798075,
+      "wordCount": 478,
+      "fileSize": 3428
     }
   },
   "activityOverTime": {
@@ -272,12 +322,12 @@
       "fileSize": 0
     },
     "2025-01-28": {
-      "wordCount": 0,
-      "fileSize": 0
+      "wordCount": 37,
+      "fileSize": 292
     },
     "2025-02-13": {
-      "wordCount": 0,
-      "fileSize": 0
+      "wordCount": 1244,
+      "fileSize": 9755
     },
     "2025-02-04": {
       "wordCount": 0,
@@ -292,12 +342,16 @@
       "fileSize": 0
     },
     "2025-01-29": {
-      "wordCount": 0,
-      "fileSize": 0
+      "wordCount": 453,
+      "fileSize": 3618
     },
     "2025-01-23": {
       "wordCount": 0,
       "fileSize": 0
+    },
+    "2025-02-14": {
+      "wordCount": 2992,
+      "fileSize": 21679
     }
   }
 }

@@ -4,66 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "9599916d2de3218c",
+        "id": "2fae3017f04360aa",
         "type": "tabs",
         "children": [
           {
-            "id": "490c18047780cd47",
+            "id": "c414074f59952818",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OvertheWire Natas.md",
+                "file": "LINUX SHORTCUTS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "OvertheWire Natas"
-            }
-          },
-          {
-            "id": "a656c5595bfdfc7c",
-            "type": "leaf",
-            "state": {
-              "type": "cm-changelog-view",
-              "state": {},
-              "icon": "rocket",
-              "title": "Changelog of Canvas Mindmap"
-            }
-          },
-          {
-            "id": "719da3a7e9ea1344",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Untitled"
-            }
-          },
-          {
-            "id": "9732f7f90ac6c18f",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Untitled 1.canvas",
-                "viewState": {
-                  "x": -500,
-                  "y": -420,
-                  "zoom": 0
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Untitled 1"
+              "title": "LINUX SHORTCUTS"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -228,7 +186,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 884.5
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -255,55 +214,60 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "719da3a7e9ea1344",
+  "active": "c414074f59952818",
   "lastOpenFiles": [
-    "Untitled 1.canvas",
-    "Untitled.md",
-    "Untitled 4.md",
-    "OvertheWire Natas.md",
-    "Untitled.canvas",
-    "Pasted image 20250213084632.png",
-    "NOTES FORMAT.md",
-    "Untitled 3.md",
-    "OvertheWire/Natas/Natas 1-7.md",
-    "Permissions.md",
-    "Pasted image 20250213084645.png",
-    "Pasted image 20250213084641.png",
-    "OvertheWire/Bandit/Bandit 13.md",
-    "OvertheWire/Natas",
-    "OvertheWire/Bandit/Bandit 16.md",
-    "OvertheWire/Bandit/bandit cmds lines.md",
-    "OvertheWire/Bandit/Bandit 14.md",
-    "Untitled 2.md",
-    "TRYHACKME/TRYHACKME.md",
-    ".md",
+    "![[RTFM - Red Team Field Manual v3.pdf.md",
     "LINUX SHORTCUTS.md",
-    "VPN VS MALWARE.md",
-    "Untitled 1.md",
-    "DeepSeek.md",
-    "Files/Files.md",
-    "Files/Timmytwoshoes.ovpn",
-    "Images/Pasted image 20250211133810.png",
+    "![[RTFM - Red Team Field Manual.pdf.md",
+    "Linux Cmds/&&.md",
+    "OvertheWire/Natas/Summary Bandit 19-24.md",
+    "Summary Bandit19-24 Jan 28.md",
+    "OvertheWire Natas.md",
+    "Permissions.md",
+    "Sec+/Feb 14, 2025 Sec+ Quiz.md",
+    "OvertheWire/Natas/NATAS10.md",
+    "OvertheWire/Natas/Summary Bandit.md",
+    "OvertheWire/Natas/Natas9.md",
+    "OvertheWire/Natas/Natas8.md",
+    "Images/image-1 3.png",
+    "Images/image 4.png",
+    "Sec+",
+    "Images/image-11.png",
+    "Images/image-10 1.png",
+    "Images/image-9 1.png",
+    "Images/image-8 1.png",
+    "Images/image-7 1.png",
+    "Images/image-6 1.png",
+    "Images/image-5 1.png",
+    "Images/image-4 1.png",
+    "Files/Canvas-1739467436818 2 1.canvas",
+    "Files/Canvas-1739467436818 2.canvas",
+    "VOCAB/Vocab.md",
+    "Cybersec 101 project.md",
+    "Linux Cmds/xxd.md",
+    "Linux Cmds/grep.md",
+    "VOCAB/BASH.md",
+    "VOCAB",
     "Links.md",
-    "Images/Pasted image 20250212142352.png",
-    "TRYHACKME/PHP .md",
-    "TRYHACKME/Challenge Basic ##PenTesting.md",
-    "TRYHACKME/NMAP Post port scan.md",
-    "TRYHACKME/NMAP.md",
-    "Feb 11 2025.md",
-    "2025-02-11.md",
+    "NOTES FORMAT.md",
+    "Vault.md",
+    "Untitled.canvas",
+    "Files/Files.md",
+    "RandomProjects",
+    "Files/Canvas-1739467436818 1.canvas",
+    "Files/Canvas-1739467436818.canvas",
+    "Linux Cmds/&.md",
+    "Untitled 2.md",
+    "RandomProjects/DeepSeek.md",
+    "Linux Cmds/Base64.md",
+    "Untitled 1.canvas",
+    "OvertheWire/Natas",
+    ".md",
+    "Files/Timmytwoshoes.ovpn",
     "Images/Untitled.canvas",
-    "Images/Pasted image 20250211093441.png",
     "Tags",
     "TRYHACKME/Burp Suite",
     "TRYHACKME/NMAP Advanced Scans/Untitled",
-    "Images/Pasted image 20250204082118.png",
-    "Images/Pasted image 20250204081534.png",
-    "Images/Pasted image 20250204065724.png",
-    "Files",
-    "Images/Pasted image 20250204065034.png",
-    "Untitled 2",
-    "Untitled 1",
-    "Linux Cmds"
+    "Files"
   ]
 }

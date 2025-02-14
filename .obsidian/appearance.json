@@ -2,8 +2,8 @@
   "accentColor": "#07e9e5",
   "theme": "obsidian",
   "interfaceFontFamily": "Ayuthaya",
-  "textFontFamily": "Arial Rounded MT Bold",
-  "baseFontSize": 11,
+  "textFontFamily": "Hoefler Text",
+  "baseFontSize": 18,
   "baseFontSizeAction": true,
   "translucency": true
 }

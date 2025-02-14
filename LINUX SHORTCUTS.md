@@ -1,3 +1,4 @@
+[[![[RTFM - Red Team Field Manual v3.pdf
 [[ctrl + L]] clears screen
 [ctrl+ c] Stops process, returns to cmd line 
 [cat] display file contents 
@@ -32,3 +33,4 @@
 
 
 
+https://cheatography.com/davechild/cheat-sheets/linux-command-line/

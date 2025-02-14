@@ -1,0 +1,1 @@
+https://www.examcompass.com/comptia-security-plus-sy0-701-exam-acronyms-quiz-part-1

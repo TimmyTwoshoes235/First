@@ -2,5 +2,13 @@
   "alwaysUpdateLinks": true,
   "promptDelete": false,
   "showUnsupportedFiles": false,
-  "attachmentFolderPath": "/"
+  "attachmentFolderPath": "/",
+  "livePreview": true,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 75
+  }
 }
